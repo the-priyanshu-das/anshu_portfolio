@@ -51,9 +51,9 @@ Basic Python scripts created for learning and practicing cybersecurity concepts.
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](./public/images/portfolio.png)
-![About Screenshot](./public/images/about.png)
-![Projects Screenshot](./public/images/projects.png)
+![Portfolio Screenshot]<img width="569" height="382" alt="portfolio" src="https://github.com/user-attachments/assets/64fbe546-47a8-4def-bd00-eab3fdb61956" />
+![About Screenshot]<img width="569" height="382" alt="about" src="https://github.com/user-attachments/assets/dc3acf95-84f3-42b1-93dc-3dfd67275b5e" />
+![Projects Screenshot]<img width="569" height="382" alt="projects" src="https://github.com/user-attachments/assets/69df687f-d045-4ccb-8362-dd048ab508fb" />
 
 
 ---
