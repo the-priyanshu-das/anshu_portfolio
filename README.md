@@ -1,3 +1,4 @@
+<img width="1917" height="859" alt="portfolio" src="https://github.com/user-attachments/assets/64fbe546-47a8-4def-bd00-eab3fdb61956" />
 # ⚡ Anshu's Cyberpunk Portfolio
 
 > *"Building in the shadows, glowing in neon."*
@@ -50,8 +51,10 @@ Basic Python scripts created for learning and practicing cybersecurity concepts.
 ---
 
 ## 📸 Preview
+![Portfolio Screenshot](./public/images/portfolio.png)
+![About Screenshot](./public/images/about.png)
+![Projects Screenshot](./public/images/projects.png)
 
-*Add your portfolio screenshot here*
 
 ---
 
